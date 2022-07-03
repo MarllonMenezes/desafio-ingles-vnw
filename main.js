@@ -7,4 +7,3 @@ if (fantasy != Number) {
 } else {
     console.log("NOT EVEN 5 STARS...", comedy.title);
 }
-           
